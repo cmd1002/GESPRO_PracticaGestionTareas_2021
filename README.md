@@ -6,6 +6,9 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 **Incluid debajo el nombre de los miembros del grupo:**
 
 Alex Tomé Aguiar
+
 Irene Ruiz Juez
+
 Carlos Manso Díez
+
 Pablo Simón Saiz
